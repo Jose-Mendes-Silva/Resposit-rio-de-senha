@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pessoas>
+  <pessoa codigo="1" nome="Steve Ballmer" telefone="2222-2223" />
+  <pessoa codigo="2" nome="Bill Gates" telefone="3333-3334" />
+  <pessoa codigo="3" nome="Steve Ballmer" telefone="4444-4444" />
+  <pessoa codigo="4" nome="Steve Ballmer kkkk" telefone="1111-1111" />
+  <pessoa codigo="5" nome="Steve Ballmer" telefone="4444-4444" />
+  <pessoa codigo="6" nome="Steve Ballmer" telefone="4444-4444" />
+</pessoas>
